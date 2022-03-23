@@ -1,6 +1,6 @@
 # Project name: Portfolio
 --------------------------------------------------------------
-This project was generated with Atom
+This project was generated with Atom as my text editor
 
 --------------------------------------------------------------
 ## Project Description
