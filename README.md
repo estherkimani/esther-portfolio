@@ -13,7 +13,7 @@ There is a navigation bar at the top to get to the different sections of the pag
 
 --------------------------------------------------------------
 #### Live link:
-https://estherkimani.github.io/my-portfolio/
+https://estherkimani.github.io/esther-portfolio/
 --------------------------------------------------------------
 
 TECHNOLOGIES USED
