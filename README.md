@@ -18,7 +18,8 @@ https://estherkimani.github.io/esther-portfolio/
 
 TECHNOLOGIES USED
 
-Boostrap
+Boostrap 
+
 html
 
 
