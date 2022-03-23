@@ -32,7 +32,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
 
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+The above copyright and permission notices shall be included in all copies or substantial portions of the Software.
 
 Author
 Esther Kimani
