@@ -1,4 +1,4 @@
-# Project name: Portfolio
+# Project name: Portfolio|Esther Kimani
 --------------------------------------------------------------
 This project was generated with Atom as my text editor
 
