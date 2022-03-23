@@ -5,7 +5,7 @@ This project was generated with Atom
 --------------------------------------------------------------
 ## Project Description
 --------------------------------------------------------------
-This project showcases my portfolio, previous work done, my educational background and hobbies
+This project showcases my portfolio, previous work done, educational background and hobbies
 
 ### How it works
 
