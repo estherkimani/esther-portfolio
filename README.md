@@ -1,6 +1,6 @@
 # Project name: Portfolio|Esther Kimani
 --------------------------------------------------------------
-This project was generated with Atom as my text editor
+This project was generated with Atom as my text editor.
 
 --------------------------------------------------------------
 ## Project Description
