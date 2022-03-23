@@ -10,6 +10,7 @@ This project showcases my portfolio, previous work done, educational background 
 ### How it works
 
 There is a navigation bar at the top to get to the different sections of the page, different sections address particulars about me. The page also contains a form to submit contacts.
+Divs in the index file are styled in the css using classes and ids.
 
 --------------------------------------------------------------
 #### Live link:
