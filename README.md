@@ -16,7 +16,7 @@ There is a navigation bar at the top to get to the different sections of the pag
 https://estherkimani.github.io/esther-portfolio/
 --------------------------------------------------------------
 
-### TECHNOLOGIES USED
+### Technologies used
 --------------------------------------------------------------
 
 Boostrap 
